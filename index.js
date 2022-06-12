@@ -6,6 +6,10 @@ var anoAtual = 2022;
 
 var resultado = anoAtual - idade;
 
+var soma = anoAtual + idade;
+
+console.log(soma);
+
 console.log(resultado);
 
 console.log("Estou mexendo no console.log");
